@@ -12,7 +12,7 @@ Encrypted chat written in python
 
 ## 🛑Known Issues:
 
-- 1. Can't type the letter " i ", " < " and " * "
+- 1 . Can't type the letter " i ", " < " and " * "
 
 ## 🔧TO-DO
 - [ ] Fix Issue 1
